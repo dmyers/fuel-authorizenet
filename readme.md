@@ -25,9 +25,9 @@ Alternatively you can download it and extract it into `fuel/packages/authorizene
 ## Usage
 
 ```php
-$cim = AuthorizeNet::cim();
-$customer = AuthorizeNet::customer();
-$payment_profile = AuthorizeNet::payment_profile();
+$cim = new AuthorizeNetCIM();
+$customer = new AuthorizeNetCustomer();
+$payment_profile = AuthorizeNetPaymentProfile ();
 ```
 
 For more examples, check out the [AuthorizeNet PHP SDK](http://developer.authorize.net/downloads/) and  [AuthorizeNet PHP Sample Code](http://developer.authorize.net/downloads/samplecode/).
