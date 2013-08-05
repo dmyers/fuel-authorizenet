@@ -4,6 +4,7 @@ A super simple AuthorizeNet package for AuthorizeNet's PHP SDK for Fuel.
 
 ## About
 * Version: 1.0.0
+* License: MIT License
 * Author: Derek Myers
 
 ## Installation
