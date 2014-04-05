@@ -1,0 +1,3 @@
+[submodule "vendor/authorizenet-sdk"]
+	path = vendor/authorizenet-sdk
+	url = git://github.com/AuthorizeNet/sdk-php
