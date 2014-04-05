@@ -1,6 +1,6 @@
 <?php
 
-require_once __DIR__ . DS . 'vendor' . DS . 'authorizenet-sdk' . DS . 'AuthorizeNet.php';
+require_once VENDORPATH . 'authorizenet' . DS . 'authorizenet' . DS . 'AuthorizeNet.php';
 
 Config::load('authorizenet', true);
 

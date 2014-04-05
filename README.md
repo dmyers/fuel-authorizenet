@@ -9,6 +9,10 @@ A super simple AuthorizeNet package for AuthorizeNet's PHP SDK for Fuel.
 
 ## Installation
 
+Simply add the following to your composer.json require block:
+
+	'authorizenet/authorizenet'
+
 ### Git Submodule
 
 If you are installing this as a submodule (recommended) in your git repo root, run this command:
